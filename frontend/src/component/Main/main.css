@@ -1,0 +1,25 @@
+.main {
+  padding: 4em;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.main > div {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.main > div * + * {
+  margin-top: 0.5em;
+}
+
+.cities {
+  display: flex;
+  flex-direction: column;
+}
+.cities * + * {
+  margin-top: 0.5em;
+}

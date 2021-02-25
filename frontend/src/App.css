@@ -1,0 +1,17 @@
+:root {
+  font-family: "Poppins", sans-serif;
+}
+:root * {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.city {
+  text-align: center;
+  padding: 1.5em;
+}
+
+.country {
+  text-align: center;
+  padding: 1.5em;
+}

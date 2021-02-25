@@ -1,0 +1,2 @@
+:root{font-family:"Poppins",sans-serif}:root *{margin:0;box-sizing:border-box}.city,.country{text-align:center;padding:1.5em}.main{padding:4em;justify-content:space-around;flex-wrap:wrap}.main,.main>div{text-align:center;display:flex;flex-direction:column}.main>div *+*{margin-top:.5em}.cities{display:flex;flex-direction:column}.cities *+*{margin-top:.5em}
+/*# sourceMappingURL=main.de82b8e5.chunk.css.map */
